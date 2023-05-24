@@ -10,8 +10,8 @@
 
 ### 具体报告（对应使用说明在文档内部）
 
-- [rules_mining.ipynb](./rules_mining.ipynb)
+- [DM2.ipynb](./DM2.ipynb)
 
-- [rules_mining.html](./rules_mining.html)
+- [DM2.md](./DM2.md)
   
-- [rules_mining.pdf](./rules_mining.pdf)
+- [DM2.pdf](./DM2.pdf)
