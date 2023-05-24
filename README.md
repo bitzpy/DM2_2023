@@ -6,7 +6,7 @@
 
 ### 所选数据集
 
-- [网页浏览行为关联规则挖掘](UCI ML Repository - Anonymous Microsoft Web Data)
+- [网页浏览行为关联规则挖掘](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data)
 
 ### 具体报告（对应使用说明在文档内部）
 
