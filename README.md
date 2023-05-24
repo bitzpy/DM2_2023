@@ -2,15 +2,15 @@
 
 > 3120220994 张圃㻛
 
-## 分类、预测与聚类
+## 频繁模式与关联规则挖掘
 
 ### 所选数据集
 
-- [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [网页浏览行为关联规则挖掘](http://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data)
 ### 具体报告（对应使用说明在文档内部）
 
-- [DM3.ipynb](./DM3.ipynb)
+- [DM2.ipynb](./DM2.ipynb)
 
-- [DM3.md](./DM3.md)
+- [DM2.md](./DM2.md)
   
-- [DM3.pdf](./DM3.pdf)
+- [DM2.pdf](./DM2.pdf)
